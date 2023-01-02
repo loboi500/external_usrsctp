@@ -1,17 +1,3 @@
-name: "usrsctp"
-description:
-    "A portable SCTP userland stack"
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://github.com/sctplab/usrsctp"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/sctplab/usrsctp.git"
-  }
-  version: "fbadabe48671c3273d2cf3e478e38cdd4d471c15"
-  last_upgrade_date { year: 2020 month: 6 day: 3 }
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c459b9a97d6ddce0ae4ed06272bf21e03b500aad73c09126b4ecabe4dee4337
+size 368

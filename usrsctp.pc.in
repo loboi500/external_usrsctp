@@ -1,12 +1,3 @@
-prefix=@prefix@
-exec_prefix=@exec_prefix@
-libdir=@libdir@
-includedir=@includedir@
-
-Name: usrsctp
-Description: SCTP implementation
-URL: https://github.com/sctplab/usrsctp
-Version: @VERSION@
-Requires: 
-Libs: -L${libdir} -lusrsctp
-Cflags: -I${includedir} @APPCFLAGS@
+version https://git-lfs.github.com/spec/v1
+oid sha256:2747bb43861f8046845ed18f6ef8d3d1ceba733e99cb8c1da3d4d0d809b3f390
+size 264

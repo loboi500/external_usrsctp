@@ -1,20 +1,3 @@
-sources += files([
-    'sctp_asconf.c',
-    'sctp_auth.c',
-    'sctp_bsd_addr.c',
-    'sctp_callout.c',
-    'sctp_cc_functions.c',
-    'sctp_crc32.c',
-    'sctp_indata.c',
-    'sctp_input.c',
-    'sctp_output.c',
-    'sctp_pcb.c',
-    'sctp_peeloff.c',
-    'sctp_sha1.c',
-    'sctp_ss_functions.c',
-    'sctp_sysctl.c',
-    'sctp_timer.c',
-    'sctp_userspace.c',
-    'sctp_usrreq.c',
-    'sctputil.c',
-])
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f934b771a6d1ede6e41191839331511ed280ece1d91b17615d9d8809e762444
+size 406

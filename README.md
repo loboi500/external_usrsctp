@@ -1,8 +1,3 @@
-# usrsctp
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/13430/badge.svg)](https://scan.coverity.com/projects/usrsctp)
-
-This is a userland SCTP stack supporting FreeBSD, Linux, Mac OS X and Windows.
-
-See [manual](Manual.md) for more information.
-
-The status of continuous integration testing is available from our [Buildbot](http://buildbot.nplab.de:18010/#/console).
+version https://git-lfs.github.com/spec/v1
+oid sha256:777d12f07f5b21be96facdb9535991ef241089a4a25b8b735e2c08dc8e2f3ceb
+size 387

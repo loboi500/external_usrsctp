@@ -1,10 +1,3 @@
-option('sctp_invariants', type: 'boolean', value: false,
-    description: 'Add runtime checks')
-option('sctp_debug', type: 'boolean', value: false,
-    description: 'Provide debug information')
-option('sctp_inet', type: 'boolean', value: true,
-    description: 'Support IPv4')
-option('sctp_inet6', type: 'boolean', value: true,
-    description: 'Support IPv6')
-option('sctp_build_programs', type: 'boolean', value: true,
-    description: 'Build example programs')
+version https://git-lfs.github.com/spec/v1
+oid sha256:661981b4c01c060f30cbd4cbeb51abd1879c7c55f43c6d9086fa207425ba3863
+size 464
